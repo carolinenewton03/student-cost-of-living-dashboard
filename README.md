@@ -32,4 +32,4 @@ Live Dashboard
 [View Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZTg2OWQ1ZmItYTZmYy00OTlkLWFkNTEtYzhlOTdiZjI3MGE5IiwidCI6IjIyMTc3MTMwLTY0MmYtNDFkOS05MjExLTc0MjM3YWQ1Njg3ZCIsImMiOjN9)
 
 Dashboard Preview
-![Dashboard Preview](images/dashboard-preview.png)
+![Dashboard Preview](student-cost-dashboard.png)
